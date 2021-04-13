@@ -1,0 +1,63 @@
+
+body {
+    width: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px 35px; 
+}
+
+hr {
+    width: 100%;
+}
+
+img {
+    width: auto;
+}
+
+.diffColor {
+    color: orange;
+}
+
+.default {
+    color: red;
+    font-style: italic;
+}
+
+.inlinegreen {
+    color: green;
+    font-style: italic;
+}
+
+.horizontal {
+    color:orange;
+    font-style: italic;
+}
+
+.inlinelements {
+    color:red;
+}
+
+.wont {
+    color: green;
+    font-weight: bold;
+}
+
+.super {
+    color: orange;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.mdn {
+    color: rgb(0, 217, 255);
+}
+
+table, td {
+    border: 1px solid rgb(14, 13, 13);
+    text-align: center;
+    width: 10%;
+}
+
+.tablerouge {
+    color: red;
+    border: 1px solid red;
+}
